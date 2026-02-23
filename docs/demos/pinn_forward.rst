@@ -52,8 +52,8 @@ Time-dependent PDEs
    pinn_forward/burgers.rar
    pinn_forward/allen.cahn
    pinn_forward/klein.gordon
+   pinn_forward/black_scholes
 
-- `Black-Scholes European call option pricing <https://github.com/lululxvi/deepxde/blob/master/examples/pinn_forward/black_scholes_call.py>`_
 - `Beltrami flow <https://github.com/lululxvi/deepxde/blob/master/examples/pinn_forward/Beltrami_flow.py>`_
 - `Wave propagation with spatio-temporal multi-scale Fourier feature architecture <https://github.com/lululxvi/deepxde/blob/master/examples/pinn_forward/wave_1d.py>`_
 - `Schrodinger equation <https://github.com/lululxvi/deepxde/blob/master/examples/pinn_forward/Schrodinger.ipynb>`_
